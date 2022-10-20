@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinireknareV1.1", "MinireknareV1.1.csproj", "{909D4435-E840-4376-9ADC-E708024B5E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909D4435-E840-4376-9ADC-E708024B5E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909D4435-E840-4376-9ADC-E708024B5E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909D4435-E840-4376-9ADC-E708024B5E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909D4435-E840-4376-9ADC-E708024B5E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CACCF214-A0C3-420A-966F-F761F9B520FD}
+	EndGlobalSection
+EndGlobal
